@@ -16,3 +16,7 @@ Questo è un progetto playground per imparare a usare Git e GitHub.
 git clone https://github.com/gabrieleTexPO/primo-repo.git
 cd primo-repo
 ```
+
+## Contribuire
+
+Hai idee o suggerimenti? Apri una issue o una pull request!
